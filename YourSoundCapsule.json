@@ -1,0 +1,2094 @@
+{
+  "stats": [
+    {
+      "date": "2024-09",
+      "streamCount": 691,
+      "secondsPlayed": 118648,
+      "topTracks": [
+        {
+          "name": "Shut Up and Dance",
+          "streamCount": 21,
+          "secondsPlayed": 3862
+        },
+        {
+          "name": "Belong Together",
+          "streamCount": 17,
+          "secondsPlayed": 2210
+        },
+        {
+          "name": "You're On Your Own, Kid",
+          "streamCount": 13,
+          "secondsPlayed": 2236
+        },
+        {
+          "name": "Give Me Everything (feat. Nayer)",
+          "streamCount": 12,
+          "secondsPlayed": 2374
+        },
+        {
+          "name": "Perfect",
+          "streamCount": 11,
+          "secondsPlayed": 2221
+        },
+        {
+          "name": "Dandelions",
+          "streamCount": 11,
+          "secondsPlayed": 2278
+        },
+        {
+          "name": "good 4 u",
+          "streamCount": 10,
+          "secondsPlayed": 1518
+        },
+        {
+          "name": "Daylight",
+          "streamCount": 10,
+          "secondsPlayed": 2309
+        },
+        {
+          "name": "Night Changes",
+          "streamCount": 10,
+          "secondsPlayed": 1668
+        },
+        {
+          "name": "TiK ToK",
+          "streamCount": 10,
+          "secondsPlayed": 1619
+        }
+      ],
+      "topArtists": [
+        {
+          "name": "Taylor Swift",
+          "streamCount": 199,
+          "secondsPlayed": 39877
+        },
+        {
+          "name": "Pitbull",
+          "streamCount": 49,
+          "secondsPlayed": 9584
+        },
+        {
+          "name": "One Direction",
+          "streamCount": 32,
+          "secondsPlayed": 5926
+        },
+        {
+          "name": "Lana Del Rey",
+          "streamCount": 22,
+          "secondsPlayed": 4097
+        },
+        {
+          "name": "WALK THE MOON",
+          "streamCount": 21,
+          "secondsPlayed": 3862
+        },
+        {
+          "name": "Mark Ambor",
+          "streamCount": 17,
+          "secondsPlayed": 2210
+        },
+        {
+          "name": "Olivia Rodrigo",
+          "streamCount": 16,
+          "secondsPlayed": 2369
+        },
+        {
+          "name": "Justin Bieber",
+          "streamCount": 16,
+          "secondsPlayed": 2876
+        },
+        {
+          "name": "Kesha",
+          "streamCount": 15,
+          "secondsPlayed": 2281
+        },
+        {
+          "name": "Sabrina Carpenter",
+          "streamCount": 12,
+          "secondsPlayed": 1383
+        }
+      ],
+      "topGenres": [
+        {
+          "name": "pop",
+          "streamCount": 429,
+          "secondsPlayed": 83900
+        },
+        {
+          "name": "female pop",
+          "streamCount": 192,
+          "secondsPlayed": 35228
+        },
+        {
+          "name": "dance",
+          "streamCount": 123,
+          "secondsPlayed": 24032
+        },
+        {
+          "name": "dance pop",
+          "streamCount": 113,
+          "secondsPlayed": 21389
+        },
+        {
+          "name": "electropop",
+          "streamCount": 61,
+          "secondsPlayed": 11274
+        },
+        {
+          "name": "club",
+          "streamCount": 53,
+          "secondsPlayed": 10928
+        },
+        {
+          "name": "american pop",
+          "streamCount": 57,
+          "secondsPlayed": 10147
+        },
+        {
+          "name": "teen pop",
+          "streamCount": 53,
+          "secondsPlayed": 9978
+        }
+      ],
+      "timeOfDayStats": [
+        {
+          "period": "late_evening",
+          "secondsPlayed": 713
+        },
+        {
+          "period": "afternoon",
+          "secondsPlayed": 32391
+        },
+        {
+          "period": "morning",
+          "secondsPlayed": 4313
+        },
+        {
+          "period": "evening",
+          "secondsPlayed": 79911
+        },
+        {
+          "period": "early_morning",
+          "secondsPlayed": 1289
+        },
+        {
+          "period": "night",
+          "secondsPlayed": 10
+        }
+      ]
+    },
+    {
+      "date": "2024-08",
+      "streamCount": 440,
+      "secondsPlayed": 72718,
+      "topTracks": [
+        {
+          "name": "Please Please Please",
+          "streamCount": 12,
+          "secondsPlayed": 1500
+        },
+        {
+          "name": "Shivers",
+          "streamCount": 10,
+          "secondsPlayed": 1630
+        },
+        {
+          "name": "Espresso",
+          "streamCount": 9,
+          "secondsPlayed": 1386
+        },
+        {
+          "name": "Austin (Boots Stop Workin')",
+          "streamCount": 9,
+          "secondsPlayed": 1205
+        },
+        {
+          "name": "Big Dawgs",
+          "streamCount": 9,
+          "secondsPlayed": 1189
+        },
+        {
+          "name": "Unwritten",
+          "streamCount": 8,
+          "secondsPlayed": 1529
+        },
+        {
+          "name": "favorite",
+          "streamCount": 7,
+          "secondsPlayed": 708
+        },
+        {
+          "name": "Best Song Ever",
+          "streamCount": 7,
+          "secondsPlayed": 1139
+        },
+        {
+          "name": "Belong Together",
+          "streamCount": 7,
+          "secondsPlayed": 1041
+        },
+        {
+          "name": "good 4 u",
+          "streamCount": 7,
+          "secondsPlayed": 1160
+        }
+      ],
+      "topArtists": [
+        {
+          "name": "Taylor Swift",
+          "streamCount": 146,
+          "secondsPlayed": 29274
+        },
+        {
+          "name": "One Direction",
+          "streamCount": 27,
+          "secondsPlayed": 4978
+        },
+        {
+          "name": "Sabrina Carpenter",
+          "streamCount": 25,
+          "secondsPlayed": 3331
+        },
+        {
+          "name": "Pitbull",
+          "streamCount": 17,
+          "secondsPlayed": 3286
+        },
+        {
+          "name": "Mark Ambor",
+          "streamCount": 11,
+          "secondsPlayed": 1564
+        },
+        {
+          "name": "Lana Del Rey",
+          "streamCount": 10,
+          "secondsPlayed": 2120
+        },
+        {
+          "name": "Ed Sheeran",
+          "streamCount": 10,
+          "secondsPlayed": 1630
+        },
+        {
+          "name": "Natasha Bedingfield",
+          "streamCount": 9,
+          "secondsPlayed": 1685
+        },
+        {
+          "name": "Dasha",
+          "streamCount": 9,
+          "secondsPlayed": 1205
+        },
+        {
+          "name": "Hanumankind",
+          "streamCount": 9,
+          "secondsPlayed": 1189
+        }
+      ],
+      "topGenres": [
+        {
+          "name": "pop",
+          "streamCount": 268,
+          "secondsPlayed": 51208
+        },
+        {
+          "name": "female pop",
+          "streamCount": 148,
+          "secondsPlayed": 28821
+        },
+        {
+          "name": "dance pop",
+          "streamCount": 47,
+          "secondsPlayed": 7519
+        },
+        {
+          "name": "teen pop",
+          "streamCount": 42,
+          "secondsPlayed": 7288
+        },
+        {
+          "name": "dance",
+          "streamCount": 36,
+          "secondsPlayed": 6347
+        },
+        {
+          "name": "american pop",
+          "streamCount": 30,
+          "secondsPlayed": 5471
+        },
+        {
+          "name": "country",
+          "streamCount": 22,
+          "secondsPlayed": 4135
+        }
+      ],
+      "timeOfDayStats": [
+        {
+          "period": "late_evening",
+          "secondsPlayed": 5439
+        },
+        {
+          "period": "afternoon",
+          "secondsPlayed": 21078
+        },
+        {
+          "period": "morning",
+          "secondsPlayed": 14452
+        },
+        {
+          "period": "evening",
+          "secondsPlayed": 29746
+        },
+        {
+          "period": "early_morning",
+          "secondsPlayed": 1352
+        },
+        {
+          "period": "night",
+          "secondsPlayed": 639
+        }
+      ]
+    },
+    {
+      "date": "2024-07",
+      "streamCount": 465,
+      "secondsPlayed": 74729,
+      "topTracks": [
+        {
+          "name": "Feels Like",
+          "streamCount": 24,
+          "secondsPlayed": 3501
+        },
+        {
+          "name": "favorite",
+          "streamCount": 22,
+          "secondsPlayed": 2533
+        },
+        {
+          "name": "Espresso",
+          "streamCount": 21,
+          "secondsPlayed": 3207
+        },
+        {
+          "name": "Austin (Boots Stop Workin')",
+          "streamCount": 17,
+          "secondsPlayed": 2628
+        },
+        {
+          "name": "I Can Do It With a Broken Heart",
+          "streamCount": 17,
+          "secondsPlayed": 3365
+        },
+        {
+          "name": "Are You Bored Yet? (feat. Clairo)",
+          "streamCount": 14,
+          "secondsPlayed": 1991
+        },
+        {
+          "name": "Unwritten",
+          "streamCount": 12,
+          "secondsPlayed": 2218
+        },
+        {
+          "name": "Numb Little Bug",
+          "streamCount": 12,
+          "secondsPlayed": 1977
+        },
+        {
+          "name": "Diet Mountain Dew",
+          "streamCount": 11,
+          "secondsPlayed": 2167
+        },
+        {
+          "name": "A Bar Song (Tipsy)",
+          "streamCount": 11,
+          "secondsPlayed": 1694
+        }
+      ],
+      "topArtists": [
+        {
+          "name": "Taylor Swift",
+          "streamCount": 93,
+          "secondsPlayed": 18245
+        },
+        {
+          "name": "Sabrina Carpenter",
+          "streamCount": 32,
+          "secondsPlayed": 4637
+        },
+        {
+          "name": "Pitbull",
+          "streamCount": 30,
+          "secondsPlayed": 4689
+        },
+        {
+          "name": "Gracie Abrams",
+          "streamCount": 24,
+          "secondsPlayed": 3501
+        },
+        {
+          "name": "Lana Del Rey",
+          "streamCount": 23,
+          "secondsPlayed": 4905
+        },
+        {
+          "name": "Isabel LaRosa",
+          "streamCount": 22,
+          "secondsPlayed": 2533
+        },
+        {
+          "name": "Dasha",
+          "streamCount": 17,
+          "secondsPlayed": 2628
+        },
+        {
+          "name": "Natasha Bedingfield",
+          "streamCount": 16,
+          "secondsPlayed": 2805
+        },
+        {
+          "name": "Shaboozey",
+          "streamCount": 14,
+          "secondsPlayed": 2207
+        },
+        {
+          "name": "Em Beihold",
+          "streamCount": 14,
+          "secondsPlayed": 2185
+        }
+      ],
+      "topGenres": [
+        {
+          "name": "pop",
+          "streamCount": 194,
+          "secondsPlayed": 36439
+        },
+        {
+          "name": "female pop",
+          "streamCount": 138,
+          "secondsPlayed": 27599
+        },
+        {
+          "name": "dance pop",
+          "streamCount": 58,
+          "secondsPlayed": 10000
+        },
+        {
+          "name": "dance",
+          "streamCount": 47,
+          "secondsPlayed": 7672
+        },
+        {
+          "name": "art pop",
+          "streamCount": 29,
+          "secondsPlayed": 5909
+        },
+        {
+          "name": "club",
+          "streamCount": 34,
+          "secondsPlayed": 5529
+        }
+      ],
+      "timeOfDayStats": [
+        {
+          "period": "night",
+          "secondsPlayed": 4060
+        },
+        {
+          "period": "late_evening",
+          "secondsPlayed": 12147
+        },
+        {
+          "period": "afternoon",
+          "secondsPlayed": 21034
+        },
+        {
+          "period": "morning",
+          "secondsPlayed": 22303
+        },
+        {
+          "period": "evening",
+          "secondsPlayed": 15170
+        }
+      ]
+    },
+    {
+      "date": "2024-06",
+      "streamCount": 338,
+      "secondsPlayed": 57718,
+      "topTracks": [
+        {
+          "name": "Espresso",
+          "streamCount": 27,
+          "secondsPlayed": 3798
+        },
+        {
+          "name": "Guilty as Sin?",
+          "streamCount": 11,
+          "secondsPlayed": 2631
+        },
+        {
+          "name": "Are You Bored Yet? (feat. Clairo)",
+          "streamCount": 10,
+          "secondsPlayed": 1584
+        },
+        {
+          "name": "Still into You",
+          "streamCount": 10,
+          "secondsPlayed": 1862
+        },
+        {
+          "name": "Too Sweet",
+          "streamCount": 9,
+          "secondsPlayed": 1575
+        },
+        {
+          "name": "Austin (Boots Stop Workin')",
+          "streamCount": 9,
+          "secondsPlayed": 1539
+        },
+        {
+          "name": "Murder On The Dancefloor",
+          "streamCount": 8,
+          "secondsPlayed": 1617
+        },
+        {
+          "name": "Down Bad",
+          "streamCount": 8,
+          "secondsPlayed": 1630
+        },
+        {
+          "name": "It Wasn't Me",
+          "streamCount": 6,
+          "secondsPlayed": 1016
+        },
+        {
+          "name": "Candy Shop",
+          "streamCount": 6,
+          "secondsPlayed": 564
+        }
+      ],
+      "topArtists": [
+        {
+          "name": "Taylor Swift",
+          "streamCount": 119,
+          "secondsPlayed": 22264
+        },
+        {
+          "name": "Sabrina Carpenter",
+          "streamCount": 34,
+          "secondsPlayed": 5046
+        },
+        {
+          "name": "Paramore",
+          "streamCount": 21,
+          "secondsPlayed": 3843
+        },
+        {
+          "name": "Lana Del Rey",
+          "streamCount": 9,
+          "secondsPlayed": 1898
+        },
+        {
+          "name": "Sophie Ellis-Bextor",
+          "streamCount": 8,
+          "secondsPlayed": 1617
+        },
+        {
+          "name": "Wallows",
+          "streamCount": 10,
+          "secondsPlayed": 1584
+        },
+        {
+          "name": "Hozier",
+          "streamCount": 9,
+          "secondsPlayed": 1575
+        },
+        {
+          "name": "Dasha",
+          "streamCount": 9,
+          "secondsPlayed": 1539
+        },
+        {
+          "name": "Shaboozey",
+          "streamCount": 8,
+          "secondsPlayed": 1368
+        },
+        {
+          "name": "Shaggy",
+          "streamCount": 6,
+          "secondsPlayed": 1016
+        }
+      ],
+      "topGenres": [
+        {
+          "name": "female pop",
+          "streamCount": 96,
+          "secondsPlayed": 19260
+        },
+        {
+          "name": "pop",
+          "streamCount": 79,
+          "secondsPlayed": 13854
+        },
+        {
+          "name": "bubblegum pop",
+          "streamCount": 20,
+          "secondsPlayed": 5059
+        },
+        {
+          "name": "pop punk",
+          "streamCount": 19,
+          "secondsPlayed": 3730
+        },
+        {
+          "name": "emo pop",
+          "streamCount": 19,
+          "secondsPlayed": 3730
+        }
+      ],
+      "timeOfDayStats": [
+        {
+          "period": "late_evening",
+          "secondsPlayed": 3975
+        },
+        {
+          "period": "afternoon",
+          "secondsPlayed": 21046
+        },
+        {
+          "period": "morning",
+          "secondsPlayed": 11068
+        },
+        {
+          "period": "evening",
+          "secondsPlayed": 15247
+        },
+        {
+          "period": "early_morning",
+          "secondsPlayed": 1089
+        },
+        {
+          "period": "night",
+          "secondsPlayed": 5283
+        }
+      ]
+    },
+    {
+      "date": "2024-05",
+      "streamCount": 378,
+      "secondsPlayed": 68912,
+      "topTracks": [
+        {
+          "name": "Espresso",
+          "streamCount": 22,
+          "secondsPlayed": 3952
+        },
+        {
+          "name": "Guilty as Sin?",
+          "streamCount": 20,
+          "secondsPlayed": 3970
+        },
+        {
+          "name": "Down Bad",
+          "streamCount": 19,
+          "secondsPlayed": 4144
+        },
+        {
+          "name": "Unwritten",
+          "streamCount": 14,
+          "secondsPlayed": 2408
+        },
+        {
+          "name": "Still into You",
+          "streamCount": 14,
+          "secondsPlayed": 2575
+        },
+        {
+          "name": "A Bar Song (Tipsy)",
+          "streamCount": 13,
+          "secondsPlayed": 2119
+        },
+        {
+          "name": "Florida!!! (feat. Florence + The Machine)",
+          "streamCount": 13,
+          "secondsPlayed": 2499
+        },
+        {
+          "name": "Down Bad",
+          "streamCount": 11,
+          "secondsPlayed": 2579
+        },
+        {
+          "name": "Murder On The Dancefloor",
+          "streamCount": 10,
+          "secondsPlayed": 2174
+        },
+        {
+          "name": "Austin (Boots Stop Workin')",
+          "streamCount": 10,
+          "secondsPlayed": 1652
+        }
+      ],
+      "topArtists": [
+        {
+          "name": "Taylor Swift",
+          "streamCount": 161,
+          "secondsPlayed": 32480
+        },
+        {
+          "name": "Paramore",
+          "streamCount": 30,
+          "secondsPlayed": 5537
+        },
+        {
+          "name": "Sabrina Carpenter",
+          "streamCount": 27,
+          "secondsPlayed": 4538
+        },
+        {
+          "name": "Florence + The Machine",
+          "streamCount": 16,
+          "secondsPlayed": 3144
+        },
+        {
+          "name": "Natasha Bedingfield",
+          "streamCount": 17,
+          "secondsPlayed": 2931
+        },
+        {
+          "name": "Sophie Ellis-Bextor",
+          "streamCount": 10,
+          "secondsPlayed": 2174
+        },
+        {
+          "name": "Shaboozey",
+          "streamCount": 13,
+          "secondsPlayed": 2119
+        },
+        {
+          "name": "Hozier",
+          "streamCount": 8,
+          "secondsPlayed": 2008
+        },
+        {
+          "name": "Dido",
+          "streamCount": 9,
+          "secondsPlayed": 1747
+        },
+        {
+          "name": "Dasha",
+          "streamCount": 10,
+          "secondsPlayed": 1652
+        }
+      ],
+      "topGenres": [
+        {
+          "name": "female pop",
+          "streamCount": 96,
+          "secondsPlayed": 22706
+        },
+        {
+          "name": "pop",
+          "streamCount": 35,
+          "secondsPlayed": 7709
+        },
+        {
+          "name": "pop punk",
+          "streamCount": 25,
+          "secondsPlayed": 5567
+        },
+        {
+          "name": "emo pop",
+          "streamCount": 24,
+          "secondsPlayed": 5535
+        },
+        {
+          "name": "punk rock",
+          "streamCount": 24,
+          "secondsPlayed": 5498
+        },
+        {
+          "name": "pop rock",
+          "streamCount": 23,
+          "secondsPlayed": 5466
+        }
+      ],
+      "timeOfDayStats": [
+        {
+          "period": "early_morning",
+          "secondsPlayed": 4664
+        },
+        {
+          "period": "late_evening",
+          "secondsPlayed": 1759
+        },
+        {
+          "period": "afternoon",
+          "secondsPlayed": 27696
+        },
+        {
+          "period": "morning",
+          "secondsPlayed": 9997
+        },
+        {
+          "period": "evening",
+          "secondsPlayed": 24780
+        }
+      ]
+    },
+    {
+      "date": "2024-04",
+      "streamCount": 691,
+      "secondsPlayed": 127443,
+      "topTracks": [
+        {
+          "name": "Down Bad",
+          "streamCount": 23,
+          "secondsPlayed": 4684
+        },
+        {
+          "name": "Florida!!! (feat. Florence + The Machine)",
+          "streamCount": 20,
+          "secondsPlayed": 5007
+        },
+        {
+          "name": "Unwritten",
+          "streamCount": 19,
+          "secondsPlayed": 4225
+        },
+        {
+          "name": "Guilty as Sin?",
+          "streamCount": 18,
+          "secondsPlayed": 3893
+        },
+        {
+          "name": "Escape (The Pina Colada Song)",
+          "streamCount": 14,
+          "secondsPlayed": 3227
+        },
+        {
+          "name": "Diet Mountain Dew",
+          "streamCount": 12,
+          "secondsPlayed": 2357
+        },
+        {
+          "name": "Is It Over Now? (Taylor's Version) (From The Vault)",
+          "streamCount": 11,
+          "secondsPlayed": 2144
+        },
+        {
+          "name": "Summertime Sadness",
+          "streamCount": 10,
+          "secondsPlayed": 2160
+        },
+        {
+          "name": "Fortnight (feat. Post Malone)",
+          "streamCount": 10,
+          "secondsPlayed": 1900
+        },
+        {
+          "name": "Radio",
+          "streamCount": 9,
+          "secondsPlayed": 1678
+        }
+      ],
+      "topArtists": [
+        {
+          "name": "Taylor Swift",
+          "streamCount": 342,
+          "secondsPlayed": 68555
+        },
+        {
+          "name": "Lana Del Rey",
+          "streamCount": 39,
+          "secondsPlayed": 7971
+        },
+        {
+          "name": "Florence + The Machine",
+          "streamCount": 26,
+          "secondsPlayed": 6286
+        },
+        {
+          "name": "Natasha Bedingfield",
+          "streamCount": 26,
+          "secondsPlayed": 5489
+        },
+        {
+          "name": "Rupert Holmes",
+          "streamCount": 14,
+          "secondsPlayed": 3227
+        },
+        {
+          "name": "Olivia Rodrigo",
+          "streamCount": 15,
+          "secondsPlayed": 2597
+        },
+        {
+          "name": "Post Malone",
+          "streamCount": 14,
+          "secondsPlayed": 2493
+        },
+        {
+          "name": "Sabrina Carpenter",
+          "streamCount": 15,
+          "secondsPlayed": 2109
+        },
+        {
+          "name": "Pitbull",
+          "streamCount": 10,
+          "secondsPlayed": 1966
+        },
+        {
+          "name": "Shakira",
+          "streamCount": 9,
+          "secondsPlayed": 1582
+        }
+      ],
+      "topGenres": [
+        {
+          "name": "female pop",
+          "streamCount": 210,
+          "secondsPlayed": 46016
+        },
+        {
+          "name": "pop",
+          "streamCount": 109,
+          "secondsPlayed": 19484
+        },
+        {
+          "name": "sunshine pop",
+          "streamCount": 25,
+          "secondsPlayed": 5897
+        },
+        {
+          "name": "hip hop",
+          "streamCount": 28,
+          "secondsPlayed": 5382
+        },
+        {
+          "name": "oldies",
+          "streamCount": 23,
+          "secondsPlayed": 5183
+        }
+      ],
+      "timeOfDayStats": [
+        {
+          "period": "late_evening",
+          "secondsPlayed": 21248
+        },
+        {
+          "period": "afternoon",
+          "secondsPlayed": 66727
+        },
+        {
+          "period": "morning",
+          "secondsPlayed": 30352
+        },
+        {
+          "period": "evening",
+          "secondsPlayed": 7761
+        },
+        {
+          "period": "early_morning",
+          "secondsPlayed": 1270
+        },
+        {
+          "period": "night",
+          "secondsPlayed": 61
+        }
+      ]
+    },
+    {
+      "date": "2024-03",
+      "streamCount": 462,
+      "secondsPlayed": 92406,
+      "topTracks": [
+        {
+          "name": "Escape (The Pina Colada Song)",
+          "streamCount": 19,
+          "secondsPlayed": 5379
+        },
+        {
+          "name": "Diet Mountain Dew",
+          "streamCount": 14,
+          "secondsPlayed": 2531
+        },
+        {
+          "name": "Unwritten",
+          "streamCount": 13,
+          "secondsPlayed": 2176
+        },
+        {
+          "name": "Style (Taylor's Version)",
+          "streamCount": 9,
+          "secondsPlayed": 1698
+        },
+        {
+          "name": "Is It Over Now? (Taylor's Version) (From The Vault)",
+          "streamCount": 8,
+          "secondsPlayed": 1817
+        },
+        {
+          "name": "Say Don't Go (Taylor's Version) (From The Vault)",
+          "streamCount": 8,
+          "secondsPlayed": 1755
+        },
+        {
+          "name": "Candy Shop",
+          "streamCount": 8,
+          "secondsPlayed": 1230
+        },
+        {
+          "name": "\"Slut!\" (Taylor's Version) (From The Vault)",
+          "streamCount": 7,
+          "secondsPlayed": 1146
+        },
+        {
+          "name": "In Da Club",
+          "streamCount": 7,
+          "secondsPlayed": 1121
+        },
+        {
+          "name": "Fearless (Taylor’s Version)",
+          "streamCount": 7,
+          "secondsPlayed": 1690
+        }
+      ],
+      "topArtists": [
+        {
+          "name": "Taylor Swift",
+          "streamCount": 288,
+          "secondsPlayed": 61179
+        },
+        {
+          "name": "Rupert Holmes",
+          "streamCount": 19,
+          "secondsPlayed": 5379
+        },
+        {
+          "name": "Lana Del Rey",
+          "streamCount": 24,
+          "secondsPlayed": 4345
+        },
+        {
+          "name": "50 Cent",
+          "streamCount": 16,
+          "secondsPlayed": 2565
+        },
+        {
+          "name": "Natasha Bedingfield",
+          "streamCount": 13,
+          "secondsPlayed": 2176
+        },
+        {
+          "name": "HAIM",
+          "streamCount": 6,
+          "secondsPlayed": 1224
+        },
+        {
+          "name": "Bon Iver",
+          "streamCount": 5,
+          "secondsPlayed": 980
+        },
+        {
+          "name": "2Pac",
+          "streamCount": 5,
+          "secondsPlayed": 975
+        },
+        {
+          "name": "Pitbull",
+          "streamCount": 5,
+          "secondsPlayed": 937
+        },
+        {
+          "name": "Ace of Base",
+          "streamCount": 5,
+          "secondsPlayed": 907
+        }
+      ],
+      "topGenres": [
+        {
+          "name": "female pop",
+          "streamCount": 126,
+          "secondsPlayed": 27337
+        },
+        {
+          "name": "pop",
+          "streamCount": 59,
+          "secondsPlayed": 11356
+        },
+        {
+          "name": "strut",
+          "streamCount": 24,
+          "secondsPlayed": 5753
+        },
+        {
+          "name": "oldies",
+          "streamCount": 10,
+          "secondsPlayed": 5741
+        },
+        {
+          "name": "soft rock",
+          "streamCount": 7,
+          "secondsPlayed": 5379
+        },
+        {
+          "name": "yacht rock",
+          "streamCount": 7,
+          "secondsPlayed": 5379
+        },
+        {
+          "name": "tiki",
+          "streamCount": 7,
+          "secondsPlayed": 5379
+        },
+        {
+          "name": "hip hop",
+          "streamCount": 26,
+          "secondsPlayed": 5118
+        }
+      ],
+      "timeOfDayStats": [
+        {
+          "period": "early_morning",
+          "secondsPlayed": 3380
+        },
+        {
+          "period": "late_evening",
+          "secondsPlayed": 5835
+        },
+        {
+          "period": "afternoon",
+          "secondsPlayed": 40841
+        },
+        {
+          "period": "morning",
+          "secondsPlayed": 35332
+        },
+        {
+          "period": "evening",
+          "secondsPlayed": 7660
+        }
+      ]
+    },
+    {
+      "date": "2024-02",
+      "streamCount": 746,
+      "secondsPlayed": 143541,
+      "topTracks": [
+        {
+          "name": "Unwritten",
+          "streamCount": 62,
+          "secondsPlayed": 15202
+        },
+        {
+          "name": "Diet Mountain Dew",
+          "streamCount": 53,
+          "secondsPlayed": 11014
+        },
+        {
+          "name": "Murder On The Dancefloor",
+          "streamCount": 34,
+          "secondsPlayed": 6349
+        },
+        {
+          "name": "Happy Nation",
+          "streamCount": 29,
+          "secondsPlayed": 6388
+        },
+        {
+          "name": "Candy Shop",
+          "streamCount": 13,
+          "secondsPlayed": 1524
+        },
+        {
+          "name": "Toxic",
+          "streamCount": 12,
+          "secondsPlayed": 1703
+        },
+        {
+          "name": "4 Minutes (feat. Justin Timberlake & Timbaland)",
+          "streamCount": 11,
+          "secondsPlayed": 1674
+        },
+        {
+          "name": "Timeless (Taylor’s Version) (From The Vault)",
+          "streamCount": 10,
+          "secondsPlayed": 3059
+        },
+        {
+          "name": "Fearless (Taylor’s Version)",
+          "streamCount": 9,
+          "secondsPlayed": 2105
+        },
+        {
+          "name": "Radio",
+          "streamCount": 8,
+          "secondsPlayed": 1513
+        }
+      ],
+      "topArtists": [
+        {
+          "name": "Taylor Swift",
+          "streamCount": 286,
+          "secondsPlayed": 64450
+        },
+        {
+          "name": "Natasha Bedingfield",
+          "streamCount": 63,
+          "secondsPlayed": 15404
+        },
+        {
+          "name": "Lana Del Rey",
+          "streamCount": 69,
+          "secondsPlayed": 13941
+        },
+        {
+          "name": "Sophie Ellis-Bextor",
+          "streamCount": 35,
+          "secondsPlayed": 6392
+        },
+        {
+          "name": "Ace of Base",
+          "streamCount": 29,
+          "secondsPlayed": 6388
+        },
+        {
+          "name": "HAIM",
+          "streamCount": 14,
+          "secondsPlayed": 2522
+        },
+        {
+          "name": "Hayley Williams",
+          "streamCount": 7,
+          "secondsPlayed": 2082
+        },
+        {
+          "name": "Britney Spears",
+          "streamCount": 14,
+          "secondsPlayed": 2077
+        },
+        {
+          "name": "Madonna",
+          "streamCount": 14,
+          "secondsPlayed": 2076
+        },
+        {
+          "name": "50 Cent",
+          "streamCount": 17,
+          "secondsPlayed": 1855
+        }
+      ],
+      "topGenres": [
+        {
+          "name": "female pop",
+          "streamCount": 200,
+          "secondsPlayed": 50483
+        },
+        {
+          "name": "pop",
+          "streamCount": 162,
+          "secondsPlayed": 38125
+        },
+        {
+          "name": "dance pop",
+          "streamCount": 77,
+          "secondsPlayed": 20918
+        },
+        {
+          "name": "karaoke",
+          "streamCount": 39,
+          "secondsPlayed": 18278
+        },
+        {
+          "name": "strut",
+          "streamCount": 99,
+          "secondsPlayed": 17545
+        },
+        {
+          "name": "sunshine pop",
+          "streamCount": 25,
+          "secondsPlayed": 16782
+        }
+      ],
+      "timeOfDayStats": [
+        {
+          "period": "early_morning",
+          "secondsPlayed": 4853
+        },
+        {
+          "period": "late_evening",
+          "secondsPlayed": 3616
+        },
+        {
+          "period": "afternoon",
+          "secondsPlayed": 85386
+        },
+        {
+          "period": "morning",
+          "secondsPlayed": 31489
+        },
+        {
+          "period": "evening",
+          "secondsPlayed": 18166
+        }
+      ]
+    },
+    {
+      "date": "2024-01",
+      "streamCount": 513,
+      "secondsPlayed": 98862,
+      "topTracks": [
+        {
+          "name": "Murder On The Dancefloor",
+          "streamCount": 34,
+          "secondsPlayed": 8310
+        },
+        {
+          "name": "It Wasnt Me",
+          "streamCount": 20,
+          "secondsPlayed": 4437
+        },
+        {
+          "name": "Is It Over Now? (Taylor's Version) (From The Vault)",
+          "streamCount": 16,
+          "secondsPlayed": 2030
+        },
+        {
+          "name": "4 Minutes (feat. Justin Timberlake & Timbaland)",
+          "streamCount": 11,
+          "secondsPlayed": 1670
+        },
+        {
+          "name": "Gorgeous",
+          "streamCount": 8,
+          "secondsPlayed": 1516
+        },
+        {
+          "name": "Gasoline (feat. Taylor Swift)",
+          "streamCount": 7,
+          "secondsPlayed": 1134
+        },
+        {
+          "name": "It Wasn't Me",
+          "streamCount": 7,
+          "secondsPlayed": 1064
+        },
+        {
+          "name": "How You Get The Girl (Taylor's Version)",
+          "streamCount": 6,
+          "secondsPlayed": 1371
+        },
+        {
+          "name": "Red (Taylor's Version)",
+          "streamCount": 6,
+          "secondsPlayed": 822
+        },
+        {
+          "name": "All Too Well (Taylor's Version)",
+          "streamCount": 6,
+          "secondsPlayed": 1787
+        }
+      ],
+      "topArtists": [
+        {
+          "name": "Taylor Swift",
+          "streamCount": 290,
+          "secondsPlayed": 57410
+        },
+        {
+          "name": "Sophie Ellis-Bextor",
+          "streamCount": 34,
+          "secondsPlayed": 8310
+        },
+        {
+          "name": "Shaggy",
+          "streamCount": 28,
+          "secondsPlayed": 5555
+        },
+        {
+          "name": "Various Artists",
+          "streamCount": 25,
+          "secondsPlayed": 5218
+        },
+        {
+          "name": "HAIM",
+          "streamCount": 24,
+          "secondsPlayed": 3834
+        },
+        {
+          "name": "Madonna",
+          "streamCount": 11,
+          "secondsPlayed": 1670
+        },
+        {
+          "name": "Dido",
+          "streamCount": 6,
+          "secondsPlayed": 1325
+        },
+        {
+          "name": "Shakira",
+          "streamCount": 6,
+          "secondsPlayed": 1167
+        },
+        {
+          "name": "JAY-Z",
+          "streamCount": 4,
+          "secondsPlayed": 910
+        },
+        {
+          "name": "Hayley Williams",
+          "streamCount": 4,
+          "secondsPlayed": 856
+        }
+      ],
+      "topGenres": [
+        {
+          "name": "female pop",
+          "streamCount": 131,
+          "secondsPlayed": 33800
+        },
+        {
+          "name": "pop",
+          "streamCount": 81,
+          "secondsPlayed": 15418
+        },
+        {
+          "name": "dance pop",
+          "streamCount": 20,
+          "secondsPlayed": 12081
+        },
+        {
+          "name": "dance",
+          "streamCount": 18,
+          "secondsPlayed": 11371
+        },
+        {
+          "name": "strut",
+          "streamCount": 54,
+          "secondsPlayed": 10746
+        },
+        {
+          "name": "boogie",
+          "streamCount": 6,
+          "secondsPlayed": 8650
+        }
+      ],
+      "timeOfDayStats": [
+        {
+          "period": "late_evening",
+          "secondsPlayed": 218
+        },
+        {
+          "period": "afternoon",
+          "secondsPlayed": 49057
+        },
+        {
+          "period": "morning",
+          "secondsPlayed": 30827
+        },
+        {
+          "period": "evening",
+          "secondsPlayed": 13345
+        },
+        {
+          "period": "early_morning",
+          "secondsPlayed": 5200
+        },
+        {
+          "period": "night",
+          "secondsPlayed": 196
+        }
+      ]
+    },
+    {
+      "date": "2023-12",
+      "streamCount": 624,
+      "secondsPlayed": 119005,
+      "topTracks": [
+        {
+          "name": "Thank You",
+          "streamCount": 70,
+          "secondsPlayed": 14414
+        },
+        {
+          "name": "Gasoline (feat. Taylor Swift)",
+          "streamCount": 23,
+          "secondsPlayed": 3625
+        },
+        {
+          "name": "Is It Over Now? (Taylor's Version) (From The Vault)",
+          "streamCount": 13,
+          "secondsPlayed": 2809
+        },
+        {
+          "name": "Castles Crumbling (feat. Hayley Williams) (Taylor’s Version) (From The Vault)",
+          "streamCount": 12,
+          "secondsPlayed": 3005
+        },
+        {
+          "name": "Imagine - Remastered 2010",
+          "streamCount": 11,
+          "secondsPlayed": 1918
+        },
+        {
+          "name": "Enchanted (Taylor's Version)",
+          "streamCount": 9,
+          "secondsPlayed": 2393
+        },
+        {
+          "name": "White Flag",
+          "streamCount": 9,
+          "secondsPlayed": 1416
+        },
+        {
+          "name": "Gorgeous",
+          "streamCount": 9,
+          "secondsPlayed": 1577
+        },
+        {
+          "name": "Cruel Summer",
+          "streamCount": 8,
+          "secondsPlayed": 1271
+        },
+        {
+          "name": "How You Get The Girl (Taylor's Version)",
+          "streamCount": 8,
+          "secondsPlayed": 1681
+        }
+      ],
+      "topArtists": [
+        {
+          "name": "Taylor Swift",
+          "streamCount": 373,
+          "secondsPlayed": 75931
+        },
+        {
+          "name": "Dido",
+          "streamCount": 82,
+          "secondsPlayed": 16313
+        },
+        {
+          "name": "HAIM",
+          "streamCount": 40,
+          "secondsPlayed": 6537
+        },
+        {
+          "name": "Hayley Williams",
+          "streamCount": 12,
+          "secondsPlayed": 3005
+        },
+        {
+          "name": "John Lennon",
+          "streamCount": 11,
+          "secondsPlayed": 1918
+        },
+        {
+          "name": "One Direction",
+          "streamCount": 8,
+          "secondsPlayed": 1497
+        },
+        {
+          "name": "JAY-Z",
+          "streamCount": 6,
+          "secondsPlayed": 1465
+        },
+        {
+          "name": "Snoop Dogg",
+          "streamCount": 9,
+          "secondsPlayed": 1390
+        },
+        {
+          "name": "Em Beihold",
+          "streamCount": 7,
+          "secondsPlayed": 1237
+        },
+        {
+          "name": "The Rembrandts",
+          "streamCount": 7,
+          "secondsPlayed": 1035
+        }
+      ],
+      "topGenres": [
+        {
+          "name": "female pop",
+          "streamCount": 178,
+          "secondsPlayed": 46202
+        },
+        {
+          "name": "easy listening",
+          "streamCount": 33,
+          "secondsPlayed": 19203
+        },
+        {
+          "name": "pop",
+          "streamCount": 100,
+          "secondsPlayed": 18859
+        },
+        {
+          "name": "90s pop",
+          "streamCount": 21,
+          "secondsPlayed": 16391
+        },
+        {
+          "name": "strut",
+          "streamCount": 66,
+          "secondsPlayed": 12818
+        }
+      ],
+      "timeOfDayStats": [
+        {
+          "period": "late_evening",
+          "secondsPlayed": 5118633
+        },
+        {
+          "period": "afternoon",
+          "secondsPlayed": 25659639
+        },
+        {
+          "period": "morning",
+          "secondsPlayed": 6459237
+        },
+        {
+          "period": "evening",
+          "secondsPlayed": 9363060
+        },
+        {
+          "period": "early_morning",
+          "secondsPlayed": 1641411
+        },
+        {
+          "period": "night",
+          "secondsPlayed": 771660
+        }
+      ]
+    },
+    {
+      "date": "2023-11",
+      "streamCount": 947,
+      "secondsPlayed": 196367,
+      "topTracks": [
+        {
+          "name": "All Too Well (Taylor's Version)",
+          "streamCount": 57,
+          "secondsPlayed": 16753
+        },
+        {
+          "name": "Say Don't Go (Taylor's Version) (From The Vault)",
+          "streamCount": 39,
+          "secondsPlayed": 8885
+        },
+        {
+          "name": "How You Get The Girl (Taylor's Version)",
+          "streamCount": 33,
+          "secondsPlayed": 6889
+        },
+        {
+          "name": "Is It Over Now? (Taylor's Version) (From The Vault)",
+          "streamCount": 30,
+          "secondsPlayed": 5908
+        },
+        {
+          "name": "Steal My Girl",
+          "streamCount": 25,
+          "secondsPlayed": 5124
+        },
+        {
+          "name": "You Are In Love (Taylor's Version)",
+          "streamCount": 18,
+          "secondsPlayed": 4509
+        },
+        {
+          "name": "Welcome To New York (Taylor's Version)",
+          "streamCount": 17,
+          "secondsPlayed": 3390
+        },
+        {
+          "name": "Now That We Don't Talk (Taylor's Version) (From The Vault)",
+          "streamCount": 16,
+          "secondsPlayed": 2184
+        },
+        {
+          "name": "Castles Crumbling (feat. Hayley Williams) (Taylor’s Version) (From The Vault)",
+          "streamCount": 15,
+          "secondsPlayed": 4566
+        },
+        {
+          "name": "This Love (Taylor’s Version)",
+          "streamCount": 14,
+          "secondsPlayed": 2731
+        }
+      ],
+      "topArtists": [
+        {
+          "name": "Taylor Swift",
+          "streamCount": 804,
+          "secondsPlayed": 172708
+        },
+        {
+          "name": "One Direction",
+          "streamCount": 35,
+          "secondsPlayed": 6991
+        },
+        {
+          "name": "Hayley Williams",
+          "streamCount": 15,
+          "secondsPlayed": 4566
+        },
+        {
+          "name": "Ed Sheeran",
+          "streamCount": 10,
+          "secondsPlayed": 1877
+        },
+        {
+          "name": "Los Del Rio",
+          "streamCount": 14,
+          "secondsPlayed": 1839
+        },
+        {
+          "name": "HAIM",
+          "streamCount": 9,
+          "secondsPlayed": 1626
+        },
+        {
+          "name": "Em Beihold",
+          "streamCount": 11,
+          "secondsPlayed": 1542
+        },
+        {
+          "name": "Gary Lightbody",
+          "streamCount": 5,
+          "secondsPlayed": 1308
+        },
+        {
+          "name": "Chris Stapleton",
+          "streamCount": 6,
+          "secondsPlayed": 1223
+        },
+        {
+          "name": "JAY-Z",
+          "streamCount": 6,
+          "secondsPlayed": 1144
+        }
+      ],
+      "topGenres": [
+        {
+          "name": "female pop",
+          "streamCount": 265,
+          "secondsPlayed": 65310
+        },
+        {
+          "name": "pop",
+          "streamCount": 132,
+          "secondsPlayed": 28305
+        },
+        {
+          "name": "strut",
+          "streamCount": 92,
+          "secondsPlayed": 23032
+        },
+        {
+          "name": "female country",
+          "streamCount": 43,
+          "secondsPlayed": 9029
+        },
+        {
+          "name": "teen pop",
+          "streamCount": 31,
+          "secondsPlayed": 7520
+        }
+      ],
+      "timeOfDayStats": [
+        {
+          "period": "late_evening",
+          "secondsPlayed": 5687370
+        },
+        {
+          "period": "afternoon",
+          "secondsPlayed": 28510710
+        },
+        {
+          "period": "morning",
+          "secondsPlayed": 7176930
+        },
+        {
+          "period": "evening",
+          "secondsPlayed": 10403400
+        },
+        {
+          "period": "early_morning",
+          "secondsPlayed": 1823790
+        },
+        {
+          "period": "night",
+          "secondsPlayed": 857400
+        }
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "date": "2024-10-06",
+      "highlightType": "STREAKS",
+      "streaksHighlight": {
+        "entity": "Justin Bieber",
+        "dayStreaks": 7
+      }
+    },
+    {
+      "date": "2024-09-29",
+      "highlightType": "TOP_LISTENER",
+      "topListenerHighlight": {
+        "entity": "You're On Your Own, Kid",
+        "topPercentile": 0.004435801383021036
+      }
+    },
+    {
+      "date": "2024-09-22",
+      "highlightType": "YOU_STAND_OUT",
+      "youStandOutHighlight": {
+        "entity": "Taylor Swift",
+        "country": "IN",
+        "secondsPlayed": 7100,
+        "marketAvgSecondsPlayed": 1085.578
+      }
+    },
+    {
+      "date": "2024-09-15",
+      "highlightType": "ON_THIS_PERIOD",
+      "onThisPeriodHighlight": {
+        "entity": "Timeless (Taylor’s Version) (From The Vault)",
+        "nostalgiaPeriod": "YEAR",
+        "nostalgiaUnitsAgo": 1
+      }
+    },
+    {
+      "date": "2024-09-08",
+      "highlightType": "ON_REPEAT",
+      "onRepeatHighlight": {
+        "entity": "Shut Up and Dance",
+        "streamCount": 9
+      }
+    },
+    {
+      "date": "2024-09-01",
+      "highlightType": "STREAKS",
+      "streaksHighlight": {
+        "entity": "Shut Up and Dance",
+        "dayStreaks": 5
+      }
+    },
+    {
+      "date": "2024-09",
+      "highlightType": "MILESTONE",
+      "multiEntityMilestoneHighlight": {
+        "entities": [
+          "Taylor Swift",
+          "Pitbull",
+          "One Direction",
+          "Shut Up and Dance",
+          "Give Me Everything (feat. Nayer)",
+          "Daylight",
+          "Dandelions",
+          "You're On Your Own, Kid",
+          "Perfect"
+        ],
+        "milestoneListeningSeconds": 118648
+      }
+    },
+    {
+      "date": "2024-08-25",
+      "highlightType": "TOP_LISTENER",
+      "topListenerHighlight": {
+        "entity": "Shivers",
+        "topPercentile": 0.017893164047140673
+      }
+    },
+    {
+      "date": "2024-08-04",
+      "highlightType": "TOP_LISTENER",
+      "topListenerHighlight": {
+        "entity": "Taylor Swift",
+        "topPercentile": 0.059267341269515654
+      }
+    },
+    {
+      "date": "2024-08",
+      "highlightType": "FIRST_TO_DISCOVER",
+      "firstToDiscoverHighlight": {
+        "entity": "Belong Together",
+        "country": "IN",
+        "position": 5527
+      }
+    },
+    {
+      "date": "2024-07-28",
+      "highlightType": "TOP_LISTENER",
+      "topListenerHighlight": {
+        "entity": "favorite",
+        "topPercentile": 0.02971017784497952
+      }
+    },
+    {
+      "date": "2024-07-21",
+      "highlightType": "TOP_LISTENER",
+      "topListenerHighlight": {
+        "entity": "favorite",
+        "topPercentile": 0.021921589478800164
+      }
+    },
+    {
+      "date": "2024-07-14",
+      "highlightType": "TOP_LISTENER",
+      "topListenerHighlight": {
+        "entity": "Pitbull",
+        "topPercentile": 0.03775400451675747
+      }
+    },
+    {
+      "date": "2024-07-07",
+      "highlightType": "STREAKS",
+      "streaksHighlight": {
+        "entity": "Unwritten",
+        "dayStreaks": 5
+      }
+    },
+    {
+      "date": "2024-07",
+      "highlightType": "UNLIKE_COMBINATION",
+      "unlikeCombinationHighlight": {
+        "firstEntity": "Gatlin",
+        "secondEntity": "Dr. Dre"
+      }
+    },
+    {
+      "date": "2024-06-30",
+      "highlightType": "TOP_LISTENER",
+      "topListenerHighlight": {
+        "entity": "Espresso",
+        "topPercentile": 0.03652249024736959
+      }
+    },
+    {
+      "date": "2024-06-23",
+      "highlightType": "PROPORTION_LISTENING_ENTITY",
+      "proportionListeningHighlight": {
+        "entity": "Taylor Swift",
+        "listeningPercentage": 45.1925129883994
+      }
+    },
+    {
+      "date": "2024-06-10",
+      "highlightType": "TOP_LISTENER",
+      "topListenerHighlight": {
+        "entity": "Taylor Swift",
+        "topPercentile": 0.1472859659602722
+      }
+    },
+    {
+      "date": "2024-06-03",
+      "highlightType": "TOP_LISTENER",
+      "topListenerHighlight": {
+        "entity": "Are You Bored Yet? (feat. Clairo)",
+        "topPercentile": 0.06245518931949896
+      }
+    },
+    {
+      "date": "2024-06",
+      "highlightType": "UNLIKE_COMBINATION",
+      "unlikeCombinationHighlight": {
+        "firstEntity": "50 Cent",
+        "secondEntity": "Hayley Williams"
+      }
+    },
+    {
+      "date": "2024-05-27",
+      "highlightType": "UNLIKE_COMBINATION",
+      "unlikeCombinationHighlight": {
+        "firstEntity": "Delinquent Habits",
+        "secondEntity": "Maya Hawke"
+      }
+    },
+    {
+      "date": "2024-05-20",
+      "highlightType": "TOP_LISTENER",
+      "topListenerHighlight": {
+        "entity": "Espresso",
+        "topPercentile": 0.03509346611753855
+      }
+    },
+    {
+      "date": "2024-05-13",
+      "highlightType": "TOP_LISTENER",
+      "topListenerHighlight": {
+        "entity": "Still into You",
+        "topPercentile": 0.012140692441913858
+      }
+    },
+    {
+      "date": "2024-05-06",
+      "highlightType": "TOP_LISTENER",
+      "topListenerHighlight": {
+        "entity": "Down Bad",
+        "topPercentile": 0.05245557006152206
+      }
+    },
+    {
+      "date": "2024-05",
+      "highlightType": "STREAKS",
+      "streaksHighlight": {
+        "entity": "Espresso",
+        "dayStreaks": 8
+      }
+    },
+    {
+      "date": "2024-04-29",
+      "highlightType": "UNLIKE_COMBINATION",
+      "unlikeCombinationHighlight": {
+        "firstEntity": "50 Cent",
+        "secondEntity": "Hayley Williams"
+      }
+    },
+    {
+      "date": "2024-04-22",
+      "highlightType": "STREAKS",
+      "streaksHighlight": {
+        "entity": "Florida!!! (feat. Florence + The Machine)",
+        "dayStreaks": 5
+      }
+    },
+    {
+      "date": "2024-04-15",
+      "highlightType": "UNLIKE_COMBINATION",
+      "unlikeCombinationHighlight": {
+        "firstEntity": "Return of the Tres",
+        "secondEntity": "Chloe or Sam or Sophia or Marcus"
+      }
+    },
+    {
+      "date": "2024-04-08",
+      "highlightType": "TOP_LISTENER",
+      "topListenerHighlight": {
+        "entity": "Diet Mountain Dew",
+        "topPercentile": 0.03983296053943853
+      }
+    },
+    {
+      "date": "2024-04-01",
+      "highlightType": "STREAKS",
+      "streaksHighlight": {
+        "entity": "Taylor Swift",
+        "dayStreaks": 7
+      }
+    },
+    {
+      "date": "2024-04",
+      "highlightType": "TOP_LISTENER",
+      "topListenerHighlight": {
+        "entity": "Natasha Bedingfield",
+        "topPercentile": 0.009582405514910871
+      }
+    }
+  ]
+}
