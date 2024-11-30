@@ -37,6 +37,10 @@ This project aims to analyze Spotify listening data and develop a personalized m
   - `SpotifyProjectHTML.html`: Interactive HTML document generated from `SpotifyProjectHTML.Rmd`.
   - `SpotifyProjectPDF.pdf`: Static PDF document generated from `SpotifyProjectPDF.Rmd`.
 
+- **Python Files(Used for accessing Spotify API)**:
+  - `api.py`
+  - `artist.py`
+
 ## Additional Notes
 - The HTML output allows interactive exploration of data visualizations, leveraging `plotly`.
 - The PDF output is formatted in landscape orientation for readability, with static plots via `ggplot2`.
