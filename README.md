@@ -3,7 +3,7 @@
 ## Project Overview
 This project aims to analyze Spotify listening data and develop a personalized music recommendation system. The analysis focuses on understanding user listening behavior, correlating audio features with moods, and building a recommendation model based on user preferences.
 
-## Libraries Used
+## R Libraries Used
 - dplyr
 - jsonlite
 - readr
@@ -17,6 +17,7 @@ This project aims to analyze Spotify listening data and develop a personalized m
 - kableExtra
 - knitr
 - rmarkdown
+
 [NOTE - These libraries are required and need to be installed before running the Rmd files]
 
 ## Files Included
