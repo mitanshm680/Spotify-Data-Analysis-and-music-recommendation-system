@@ -47,3 +47,8 @@ This project aims to analyze Spotify listening data and develop a personalized m
 - The PDF output is formatted in landscape orientation for readability, with static plots via `ggplot2`.
 
 Please refer to the HTML or PDF files for a complete overview of the analysis and findings.
+
+
+
+
+
